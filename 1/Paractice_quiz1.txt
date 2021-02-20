@@ -1,0 +1,20 @@
+1.
+Question 1
+Suppose you have written a Java program that has one class and
+one method. 
+
+Which one of the following
+best describes what you need to do in order to run the program?
+
+Ans:Compile the program, create a new
+object for the class, and call the method.
+2.
+Question 2
+Which one of the following best describes what happens when one compiles a Java program in BlueJ on their computer?
+
+The .java file is translated into a .class file that can be run on that computer. 
+3.
+Question 3
+Which one of the following best describes BlueJ?
+
+BlueJ is a programming environment.
