@@ -1,0 +1,25 @@
+1.
+Question 1
+Consider the following Java statements. 
+int a = 5;
+int b = 3;
+int c = 4;
+c = a + b ;
+What is the value of c after these lines execute?
+Ans:8
+2.
+Question 2
+Consider the following Java statements. 
+int a = 1 ;
+int b = a + 2 ;
+int c = b + b ;
+What is the value of c after these lines execute?
+Ans:6
+3.
+Question 3
+Consider the following Java statements. 
+int a = 3 ;
+int b = 1 ;
+int c = 2 + a * 5 - b ;
+What is the value of c after these lines execute?
+Ans:16
